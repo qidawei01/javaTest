@@ -1,0 +1,11 @@
+server:
+  port: 8098
+
+logging:
+
+  level:
+    root: error
+    jp.co.tokyo_gas.mwb: debug
+
+file:
+  data-path: C:\data\json
